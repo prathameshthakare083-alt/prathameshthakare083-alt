@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently: I'm student, AI/ML enthusiast.<br>🤝 I’m looking to collaborate on: AI/ML projects, and startup ideas<br>🌱 I’m currently learning:  Machine Learning, and building real-world applications<br>💬 Ask me about: AI/ML, coding roadmaps, hackathons, and tech communities<br>⚡ Fun fact: I believe in learning by building, I love turning ideas into projects and figuring things out along the way
+🛠️ I’m currently: I'm student, AI/ML enthusiast.<br>🤝 I’m looking to collaborate on: AI/ML projects, and startup ideas<br>🌱 I’m currently learning:  Machine Learning, and building real-world applications<br>💬 Ask me about: AI/ML, coding roadmaps, hackathons, and tech communities<br>⚡ Fun fact: I believe in learning by building, I love turning ideas into projects and figuring things out along the way!
 
 
 ## 🌐 Socials:
